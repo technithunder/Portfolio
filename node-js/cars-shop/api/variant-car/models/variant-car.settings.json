@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "variant_cars",
+  "info": {
+    "name": "variant_car"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "car_package_options_2_attribute_1": {
+      "type": "string"
+    },
+    "car_special2": {
+      "type": "string"
+    },
+    "car_package_options_5_attribute_2": {
+      "type": "string"
+    }
+  }
+}
