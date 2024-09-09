@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/car-vin-caches",
+      "handler": "car-vin-cache.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/car-vin-caches/count",
+      "handler": "car-vin-cache.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/car-vin-caches/:id",
+      "handler": "car-vin-cache.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/car-vin-caches",
+      "handler": "car-vin-cache.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/car-vin-caches/:id",
+      "handler": "car-vin-cache.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/car-vin-caches/:id",
+      "handler": "car-vin-cache.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

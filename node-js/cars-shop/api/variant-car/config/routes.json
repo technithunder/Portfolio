@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/variant-cars",
+      "handler": "variant-car.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/variant-cars/count",
+      "handler": "variant-car.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/variant-cars/:id",
+      "handler": "variant-car.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/variant-cars",
+      "handler": "variant-car.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/variant-cars/:id",
+      "handler": "variant-car.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/variant-cars/:id",
+      "handler": "variant-car.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

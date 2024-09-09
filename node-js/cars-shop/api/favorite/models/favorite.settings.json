@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "favorites",
+  "info": {
+    "name": "favorite",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "user": {
+      "via": "favorites",
+      "plugin": "users-permissions",
+      "model": "user"
+    },
+    "variant": {
+      "model": "variant"
+    }
+  }
+}

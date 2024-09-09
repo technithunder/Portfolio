@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "car_vin_cache",
+  "info": {
+    "name": "car_vin_cache",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "car_vin": {
+      "type": "string"
+    }
+  }
+}

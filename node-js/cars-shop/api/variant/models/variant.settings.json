@@ -1,0 +1,539 @@
+{
+  "kind": "collectionType",
+  "collectionName": "variants",
+  "info": {
+    "description": "",
+    "name": "Variant"
+  },
+  "options": {
+    "draftAndPublish": false,
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "active": {
+      "type": "boolean"
+    },
+    "anti_brake_system": {
+      "type": "string"
+    },
+    "car_carFax_accident_status": {
+      "type": "string"
+    },
+    "car_carFax_actuall_price": {
+      "type": "integer"
+    },
+    "car_carFax_carfax_price": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_1_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_1_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_1_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_1_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_10_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_10_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_10_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_10_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_11_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_11_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_11_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_11_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_2_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_2_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_2_mileage": {
+      "type": "string"
+    },
+    "car_carFax_detailed_history_owner_1_history_2_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_3_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_3_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_3_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_3_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_4_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_4_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_4_mileage": {
+      "type": "string"
+    },
+    "car_carFax_detailed_history_owner_1_history_4_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_5_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_5_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_5_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_5_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_6_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_6_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_6_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_6_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_7_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_7_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_7_mileage": {
+      "type": "string"
+    },
+    "car_carFax_detailed_history_owner_1_history_7_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_8_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_8_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_8_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_8_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_9_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_history_9_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_1_history_9_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_1_history_9_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_1_name": {
+      "type": "string"
+    },
+    "car_carFax_detailed_history_owner_2_history_1_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_1_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_1_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_2_history_1_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_2_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_2_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_2_mileage": {
+      "type": "string"
+    },
+    "car_carFax_detailed_history_owner_2_history_2_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_3_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_3_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_3_mileage": {
+      "type": "string"
+    },
+    "car_carFax_detailed_history_owner_2_history_3_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_4_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_4_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_4_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_2_history_4_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_5_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_5_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_5_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_2_history_5_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_6_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_6_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_6_mileage": {
+      "type": "integer"
+    },
+    "car_carFax_detailed_history_owner_2_history_6_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_7_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_7_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_7_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_8_comments": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_history_8_date": {
+      "type": "date"
+    },
+    "car_carFax_detailed_history_owner_2_history_8_mileage": {
+      "type": "string"
+    },
+    "car_carFax_detailed_history_owner_2_history_8_source": {
+      "type": "richtext"
+    },
+    "car_carFax_detailed_history_owner_2_name": {
+      "type": "string"
+    },
+    "car_carFax_details_status": {
+      "type": "string"
+    },
+    "car_carFax_details_status2": {
+      "type": "string"
+    },
+    "car_carFax_num_last_odo_reported": {
+      "type": "integer"
+    },
+    "car_carFax_num_pervious_owner": {
+      "type": "integer"
+    },
+    "car_carFax_num_service_record": {
+      "type": "integer"
+    },
+    "car_carFax_ownerShipHistory_owner_1_estimated_length_of_ownership": {
+      "type": "string"
+    },
+    "car_carFax_ownerShipHistory_owner_1_estimated_miles_driven_per_year": {
+      "type": "integer"
+    },
+    "car_carFax_ownerShipHistory_owner_1_last_reported_odometer_reading": {
+      "type": "integer"
+    },
+    "car_carFax_ownerShipHistory_owner_1_owned_in_the_following_states_provinces": {
+      "type": "string"
+    },
+    "car_carFax_ownerShipHistory_owner_1_type_of_owner": {
+      "type": "string"
+    },
+    "car_carFax_ownerShipHistory_owner_1_year_purchased": {
+      "type": "integer"
+    },
+    "car_carFax_ownerShipHistory_owner_2_estimated_length_of_ownership": {
+      "type": "string"
+    },
+    "car_carFax_ownerShipHistory_owner_2_estimated_miles_driven_per_year": {
+      "type": "integer"
+    },
+    "car_carFax_ownerShipHistory_owner_2_last_reported_odometer_reading": {
+      "type": "integer"
+    },
+    "car_carFax_ownerShipHistory_owner_2_owned_in_the_following_states_provinces": {
+      "type": "string"
+    },
+    "car_carFax_ownerShipHistory_owner_2_type_of_owner": {
+      "type": "string"
+    },
+    "car_carFax_ownerShipHistory_owner_2_year_purchased": {
+      "type": "integer"
+    },
+    "car_carFax_status": {
+      "type": "string"
+    },
+    "car_carFaxUrl": {
+      "type": "string"
+    },
+    "car_currentCarURL": {
+      "type": "string"
+    },
+    "car_dealership": {
+      "type": "string"
+    },
+    "car_exteriorColor": {
+      "type": "string"
+    },
+    "car_imgSrcUrl_1": {
+      "type": "string"
+    },
+    "car_imgSrcUrl_2": {
+      "type": "string"
+    },
+    "car_imgSrcUrl_3": {
+      "type": "string"
+    },
+    "car_imgSrcUrl_4": {
+      "type": "string"
+    },
+    "car_imgSrcUrl_5": {
+      "type": "string"
+    },
+    "car_imgSrcUrl_6": {
+      "type": "string"
+    },
+    "car_make_name": {
+      "type": "string"
+    },
+    "car_name": {
+      "type": "string"
+    },
+    "car_price": {
+      "type": "string"
+    },
+    "car_stock": {
+      "type": "string"
+    },
+    "car_vin": {
+      "required": false,
+      "type": "string"
+    },
+    "car_year": {
+      "type": "string"
+    },
+    "carfax_previousOwnerCount": {
+      "type": "string"
+    },
+    "city_mileage": {
+      "type": "decimal"
+    },
+    "curb_weight": {
+      "type": "string"
+    },
+    "delivery_charges": {
+      "type": "integer"
+    },
+    "doors": {
+      "type": "integer"
+    },
+    "drivetrain": {
+      "type": "string"
+    },
+    "engine": {
+      "type": "string"
+    },
+    "engine_cylinders": {
+      "type": "integer"
+    },
+    "front_brake_type": {
+      "type": "string"
+    },
+    "front_headroom": {
+      "type": "decimal"
+    },
+    "front_legroom": {
+      "type": "decimal"
+    },
+    "front_spring_type": {
+      "type": "string"
+    },
+    "front_suspension": {
+      "type": "string"
+    },
+    "fuel_capacity": {
+      "type": "decimal"
+    },
+    "fuel_type": {
+      "type": "string"
+    },
+    "gross_vehicle_weight_rating": {
+      "type": "string"
+    },
+    "highway_mileage": {
+      "type": "decimal"
+    },
+    "int_car_odometer": {
+      "type": "integer"
+    },
+    "int_car_samplePayment": {
+      "type": "integer"
+    },
+    "int_car_samplePaymentDetails_APR": {
+      "type": "decimal"
+    },
+    "int_car_samplePaymentDetails_DownPayment": {
+      "type": "integer"
+    },
+    "int_car_samplePaymentDetails_Months": {
+      "type": "integer"
+    },
+    "int_car_views": {
+      "type": "integer"
+    },
+    "invoice_price": {
+      "type": "integer"
+    },
+    "make": {
+      "type": "string"
+    },
+    "manufacturer_suggested_retail_price": {
+      "type": "integer"
+    },
+    "maximum_towing": {
+      "type": "string"
+    },
+    "model": {
+      "type": "string"
+    },
+    "overall_height": {
+      "type": "decimal"
+    },
+    "overall_length": {
+      "type": "decimal"
+    },
+    "overall_width": {
+      "type": "decimal"
+    },
+    "price": {
+      "required": false,
+      "type": "decimal"
+    },
+    "production_seq_number": {
+      "type": "string"
+    },
+    "rear_brake_type": {
+      "type": "string"
+    },
+    "rear_headroom": {
+      "type": "decimal"
+    },
+    "rear_legroom": {
+      "type": "decimal"
+    },
+    "rear_spring_type": {
+      "type": "string"
+    },
+    "rear_suspension": {
+      "type": "string"
+    },
+    "standard_seating": {
+      "type": "integer"
+    },
+    "standard_towing": {
+      "type": "string"
+    },
+    "steering_type": {
+      "type": "string"
+    },
+    "style": {
+      "type": "string"
+    },
+    "transmission": {
+      "type": "string"
+    },
+    "transmission_short": {
+      "type": "string"
+    },
+    "transmission_speeds": {
+      "type": "string"
+    },
+    "transmission_type": {
+      "type": "string"
+    },
+    "trim": {
+      "type": "string"
+    },
+    "turning_diameter": {
+      "type": "decimal"
+    },
+    "type": {
+      "type": "string"
+    },
+    "vehicle_status": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer"
+    },
+    "manufacture_data_manufacture_mpg_city": {
+      "type": "integer"
+    },
+    "manufacture_data_manufacture_mpg_highway": {
+      "type": "integer"
+    },
+    "manufacture_data_manufacture_annual_fuel_cost": {
+      "type": "integer"
+    },
+    "manufacture_data_sticker_url": {
+      "type": "string"
+    },
+    "created": {
+      "type": "datetime"
+    },
+    "last_check": {
+      "type": "datetime"
+    },
+    "last_update": {
+      "type": "datetime"
+    }
+  }
+}
