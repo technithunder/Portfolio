@@ -1,0 +1,13 @@
+input::-ms-reveal,
+input::-ms-clear {
+  display: none;
+}
+
+.image {
+  height: 30px;
+  width: auto;
+}
+.profilePicture {
+  width: 100%;
+  height: 10vw;
+}

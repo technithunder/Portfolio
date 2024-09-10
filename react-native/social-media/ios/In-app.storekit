@@ -1,0 +1,108 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "AC70DD7D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "iceskip099",
+      "referenceName" : "IceBreakerNSkip ",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "3BCC18D4",
+      "localizations" : [
+
+      ],
+      "name" : "Pro-subscription-Monthly",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "7E549259",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "Monthly subscription",
+              "displayName" : "Seemee Pro-version",
+              "locale" : "en_CA"
+            }
+          ],
+          "productID" : "promonthly299",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "SEEMEE PRO_VERSION_MONTHLY",
+          "subscriptionGroupID" : "3BCC18D4",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "14.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "919484FE",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "promonthly249",
+          "recurringSubscriptionPeriod" : "P6M",
+          "referenceName" : "SEEMEE PRO_VERSION_6MONTH",
+          "subscriptionGroupID" : "3BCC18D4",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "23.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "BC0FDE79",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "promonthly199",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "SEEMEE PRO_VERSION_12MONTH",
+          "subscriptionGroupID" : "3BCC18D4",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}

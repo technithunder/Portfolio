@@ -1,0 +1,8 @@
+{
+  "amountLimit": 1000,
+  "depthLimit": 7,
+  "endpoint": "/graphql",
+  "playgroundAlways": true,
+  "shadowCRUD": true,
+  "tracing": false
+}
