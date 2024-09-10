@@ -1,0 +1,1 @@
+Directory to showcase python-django code snippets

@@ -1,0 +1,24 @@
+html,
+body {
+  background-color: #ffff;
+  margin: 0;
+}
+
+button {
+  text-transform: none !important;
+}
+
+// for image zoom carousel
+.zoomed-image {
+  background-size: cover;
+  cursor: pointer;
+}
+
+.MuiPaper-root {
+  max-width: none;
+}
+
+a{
+  text-decoration-line: none;
+  color: black;
+}

@@ -1,0 +1,1 @@
+Directory to showcase react-native code snippets
