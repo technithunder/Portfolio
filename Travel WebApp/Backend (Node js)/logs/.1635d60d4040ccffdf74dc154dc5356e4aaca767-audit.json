@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/rajhans/Desktop/WORKSPACE/untitled folder/code-cubes-backend/logs/.1635d60d4040ccffdf74dc154dc5356e4aaca767-audit.json",
+    "files": [
+        {
+            "date": 1736426224373,
+            "name": "/Users/rajhans/Desktop/WORKSPACE/untitled folder/code-cubes-backend/logs/2025-01-09.log",
+            "hash": "208ab9e65cd19f55bc53cd881fbb3340abf4b7adfb848d7ea2a8cb0a5250c9c3"
+        },
+        {
+            "date": 1736945882840,
+            "name": "/Users/rajhans/Desktop/WORKSPACE/untitled folder/code-cubes-backend/logs/2025-01-15.log",
+            "hash": "76ea220b6164bca8acb1f905b1209f759640c51f1396522057ff882228db4c3c"
+        },
+        {
+            "date": 1737004950915,
+            "name": "/Users/rajhans/Desktop/WORKSPACE/untitled folder/code-cubes-backend/logs/2025-01-16.log",
+            "hash": "3c74a2141ccdb36608bc999519a91032446be24e9e77dc16230f7eab003e3b4c"
+        }
+    ],
+    "hashType": "sha256"
+}

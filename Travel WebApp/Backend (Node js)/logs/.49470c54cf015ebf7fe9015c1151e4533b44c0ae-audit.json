@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/rajhans/Desktop/WORKSPACE/visayard-backend/logs/.49470c54cf015ebf7fe9015c1151e4533b44c0ae-audit.json",
+    "files": [
+        {
+            "date": 1754281571469,
+            "name": "/Users/rajhans/Desktop/WORKSPACE/visayard-backend/logs/2025-08-04.log",
+            "hash": "107165d901ad0abb222c575263e196fd5306699f48841f4da5a6a7d38e2eba53"
+        },
+        {
+            "date": 1754400860488,
+            "name": "/Users/rajhans/Desktop/WORKSPACE/visayard-backend/logs/2025-08-05.log",
+            "hash": "c92e8253f656b6e0cb1af3a474b9b9ac3a05c0024e72920c1f9b9f47b6573605"
+        },
+        {
+            "date": 1756370599495,
+            "name": "/Users/rajhans/Desktop/WORKSPACE/visayard-backend/logs/2025-08-28.log",
+            "hash": "d436274d9fa1d31c34c065796d17f101ace3cfb2bad62067fce9d3416ca47f15"
+        },
+        {
+            "date": 1756711733030,
+            "name": "/Users/rajhans/Desktop/WORKSPACE/visayard-backend/logs/2025-09-01.log",
+            "hash": "c0014bafddc506a5269a4f36382f124766bd78276985acc5aa29caf87006f7eb"
+        }
+    ],
+    "hashType": "sha256"
+}

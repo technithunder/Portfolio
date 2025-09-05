@@ -1,0 +1,25 @@
+'use strict';
+
+/** @type {import('sequelize-cli').Migration} */
+module.exports = {
+  async up (queryInterface, Sequelize) {
+    await queryInterface.addColumn('User', 'passportFront', {
+      type: Sequelize.STRING,
+      allowNull: true,
+    });
+    await queryInterface.addColumn('User', 'passportBack', {
+      type: Sequelize.STRING,
+      allowNull: true,
+    });
+    await queryInterface.addColumn('User', 'incomeTaxReturn', {
+      type: Sequelize.STRING,
+      allowNull: true,
+    });
+  },
+
+  async down (queryInterface, Sequelize) {
+    await queryInterface.removeColumn('User', 'passportFront');
+    await queryInterface.removeColumn('User', 'passportBack');
+    await queryInterface.removeColumn('User', 'incomeTaxReturn');
+  }
+};
