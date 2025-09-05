@@ -44,10 +44,10 @@ This repository is for **portfolio showcase only** – it includes **screenshots
 ## 📜 Disclaimer
 
 ⚠️ This project is for **showcase/portfolio purposes only**.  
-It demonstrates **concepts, architecture, and AI integration** for e-commerce but is **not a runnable project**.
+It demonstrates **concepts, architecture, and AI integration** for e-commerce.
 
 ---
 
 ## 👨‍💻 Authors
 
-By **[Technithunder LABS LLP]**
+By **Technithunder LABS LLP**
