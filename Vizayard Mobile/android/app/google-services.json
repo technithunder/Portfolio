@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614410589030",
+    "project_id": "vizayard-851fb",
+    "storage_bucket": "vizayard-851fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614410589030:android:9d7ac62c5b9255ac856ea7",
+        "android_client_info": {
+          "package_name": "com.vizayard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMyDwgtBCZcJbrAY3VttwNiUBnL_Ea9xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

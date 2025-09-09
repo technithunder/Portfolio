@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>en</string>
+		<key>CFBundleDisplayName</key>
+		<string>Vizayard</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>$(PRODUCT_NAME)</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(MARKETING_VERSION)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.googleusercontent.apps.971494195044-00ru1g2v58d508bio31t9a3ko5r10qgp</string>
+				</array>
+			</dict>
+		</array>
+		<key>CFBundleVersion</key>
+		<string>$(CURRENT_PROJECT_VERSION)</string>
+		<key>LSRequiresIPhoneOS</key>
+		<true />
+		<key>NSAppTransportSecurity</key>
+		<dict>
+			<key>NSAllowsArbitraryLoads</key>
+			<true />
+		</dict>
+		<key>NSCameraUsageDescription</key>
+		<string>Vizayard requires access to your camera to capture photos and videos for your visa applications.</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>Vizayard needs continuous location access to provide location-based services, such as nearby visa centers and real-time updates.</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Vizayard needs access to your location while using the app to enhance location-based features and recommendations.</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Vizayard requires access to your microphone for video consultations and voice-based interactions.</string>
+		<key>NSPhotoLibraryAddUsageDescription</key>
+		<string>Vizayard needs access to your photo library to save scanned documents and edited images for visa applications.</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Vizayard requires access to your photo library to upload documents and manage your visa-related images.</string>
+		<!-- NEW: Added missing document access permission -->
+		<key>NSDocumentsFolderUsageDescription</key>
+		<string>Vizayard needs access to your documents folder to upload and manage PDF files for visa applications.</string>
+		<!-- NEW: Added file provider access for better document handling -->
+		<key>LSSupportsOpeningDocumentsInPlace</key>
+		<true/>
+		<key>UIFileSharingEnabled</key>
+		<true/>
+		<!-- NEW: Added document types support -->
+		<key>CFBundleDocumentTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleTypeName</key>
+				<string>PDF Document</string>
+				<key>CFBundleTypeIconFiles</key>
+				<array/>
+				<key>LSItemContentTypes</key>
+				<array>
+					<string>com.adobe.pdf</string>
+				</array>
+				<key>LSHandlerRank</key>
+				<string>Owner</string>
+			</dict>
+			<dict>
+				<key>CFBundleTypeName</key>
+				<string>JPEG Image</string>
+				<key>CFBundleTypeIconFiles</key>
+				<array/>
+				<key>LSItemContentTypes</key>
+				<array>
+					<string>public.jpeg</string>
+				</array>
+				<key>LSHandlerRank</key>
+				<string>Owner</string>
+			</dict>
+			<dict>
+				<key>CFBundleTypeName</key>
+				<string>PNG Image</string>
+				<key>CFBundleTypeIconFiles</key>
+				<array/>
+				<key>LSItemContentTypes</key>
+				<array>
+					<string>public.png</string>
+				</array>
+				<key>LSHandlerRank</key>
+				<string>Owner</string>
+			</dict>
+		</array>
+		<key>UIAppFonts</key>
+		<array>
+			<string>AntDesign.ttf</string>
+			<string>Entypo.ttf</string>
+			<string>EvilIcons.ttf</string>
+			<string>Feather.ttf</string>
+			<string>FontAwesome.ttf</string>
+			<string>FontAwesome5_Brands.ttf</string>
+			<string>FontAwesome5_Regular.ttf</string>
+			<string>FontAwesome5_Solid.ttf</string>
+			<string>FontAwesome6_Brands.ttf</string>
+			<string>FontAwesome6_Regular.ttf</string>
+			<string>FontAwesome6_Solid.ttf</string>
+			<string>Foundation.ttf</string>
+			<string>Ionicons.ttf</string>
+			<string>MaterialIcons.ttf</string>
+			<string>MaterialCommunityIcons.ttf</string>
+			<string>SimpleLineIcons.ttf</string>
+			<string>Octicons.ttf</string>
+			<string>Zocial.ttf</string>
+			<string>Fontisto.ttf</string>
+			<string>Inter 18pt Black.ttf</string>
+			<string>Inter 18pt BlackItalic.ttf</string>
+			<string>Inter 18pt Bold.ttf</string>
+			<string>Inter 18pt BoldItalic.ttf</string>
+			<string>Inter 18pt ExtraBold.ttf</string>
+			<string>Inter 18pt ExtraBoldItalic.ttf</string>
+			<string>Inter 18pt ExtraLight.ttf</string>
+			<string>Inter 18pt ExtraLightItalic.ttf</string>
+			<string>Inter 18pt Italic.ttf</string>
+			<string>Inter 18pt Light.ttf</string>
+			<string>Inter 18pt LightItalic.ttf</string>
+			<string>Inter 18pt Medium.ttf</string>
+			<string>Inter 18pt MediumItalic.ttf</string>
+			<string>Inter 18pt Regular.ttf</string>
+			<string>Inter 18pt SemiBold.ttf</string>
+			<string>Inter 18pt SemiBoldItalic.ttf</string>
+			<string>Inter 18pt Thin.ttf</string>
+			<string>Inter 18pt ThinItalic.ttf</string>
+		</array>
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>processing</string>
+			<string>fetch</string>
+			<string>remote-notification</string>
+		</array>
+		<key>BGTaskSchedulerPermittedIdentifiers</key>
+		<array>
+			<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIRequiredDeviceCapabilities</key>
+		<array>
+			<string>arm64</string>
+		</array>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false />
+	</dict>
+</plist>

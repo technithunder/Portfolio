@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VizaYard.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4D24899099D89463C6F599DA377F769F7E2C60E7</string>
+				<key>dateExpires</key>
+				<string>08/04/26</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4D24899099D89463C6F599DA377F769F7E2C60E7</string>
+						<key>dateExpires</key>
+						<string>08/04/26</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>T283R4TNGG</string>
+						<key>name</key>
+						<string>Visauniversal Travelplanners</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>T283R4TNGG.com.vizayard</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>T283R4TNGG</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>VizaYard.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>20eaa7f3-0002-4b39-929d-d4615b1a735c</string>
+				<key>dateExpires</key>
+				<string>08/04/26</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.vizayard</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>T283R4TNGG</string>
+				<key>name</key>
+				<string>Visauniversal Travelplanners</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

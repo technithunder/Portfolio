@@ -1,0 +1,1168 @@
+{
+  "data": [
+    {
+      "country": "Afghanistan",
+      "flag": "🇦🇫",
+      "code": "+93",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Albania",
+      "flag": "🇦🇱",
+      "code": "+355",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Algeria",
+      "flag": "🇩🇿",
+      "code": "+213",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Andorra",
+      "flag": "🇦🇩",
+      "code": "+376",
+      "phone_number_limit": 6
+    },
+    {
+      "country": "Angola",
+      "flag": "🇦🇴",
+      "code": "+244",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "flag": "🇦🇬",
+      "code": "+1-268",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Argentina",
+      "flag": "🇦🇷",
+      "code": "+54",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Armenia",
+      "flag": "🇦🇲",
+      "code": "+374",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "code": "+61",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Austria",
+      "flag": "🇦🇹",
+      "code": "+43",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Azerbaijan",
+      "flag": "🇦🇿",
+      "code": "+994",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Bahamas",
+      "flag": "🇧🇸",
+      "code": "+1-242",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Bahrain",
+      "flag": "🇧🇭",
+      "code": "+973",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Bangladesh",
+      "flag": "🇧🇩",
+      "code": "+880",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Barbados",
+      "flag": "🇧🇧",
+      "code": "+1-246",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Belarus",
+      "flag": "🇧🇾",
+      "code": "+375",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Belgium",
+      "flag": "🇧🇪",
+      "code": "+32",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Belize",
+      "flag": "🇧🇿",
+      "code": "+501",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Benin",
+      "flag": "🇧🇯",
+      "code": "+229",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Bhutan",
+      "flag": "🇧🇹",
+      "code": "+975",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Bolivia",
+      "flag": "🇧🇴",
+      "code": "+591",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "flag": "🇧🇦",
+      "code": "+387",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Botswana",
+      "flag": "🇧🇼",
+      "code": "+267",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Brazil",
+      "flag": "🇧🇷",
+      "code": "+55",
+      "phone_number_limit": 11
+    },
+    {
+      "country": "Brunei",
+      "flag": "🇧🇳",
+      "code": "+673",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Bulgaria",
+      "flag": "🇧🇬",
+      "code": "+359",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Burkina Faso",
+      "flag": "🇧🇫",
+      "code": "+226",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Burundi",
+      "flag": "🇧🇮",
+      "code": "+257",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Cabo Verde",
+      "flag": "🇨🇻",
+      "code": "+238",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Cambodia",
+      "flag": "🇰🇭",
+      "code": "+855",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Cameroon",
+      "flag": "🇨🇲",
+      "code": "+237",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "code": "+1",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Central African Republic",
+      "flag": "🇨🇫",
+      "code": "+236",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Chad",
+      "flag": "🇹🇩",
+      "code": "+235",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Chile",
+      "flag": "🇨🇱",
+      "code": "+56",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "China",
+      "flag": "🇨🇳",
+      "code": "+86",
+      "phone_number_limit": 11
+    },
+    {
+      "country": "Colombia",
+      "flag": "🇨🇴",
+      "code": "+57",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Comoros",
+      "flag": "🇰🇲",
+      "code": "+269",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Congo, Democratic Republic of the",
+      "flag": "🇨🇩",
+      "code": "+243",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Congo, Republic of the",
+      "flag": "🇨🇬",
+      "code": "+242",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Costa Rica",
+      "flag": "🇨🇷",
+      "code": "+506",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Croatia",
+      "flag": "🇭🇷",
+      "code": "+385",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Cuba",
+      "flag": "🇨🇺",
+      "code": "+53",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Cyprus",
+      "flag": "🇨🇾",
+      "code": "+357",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Czech Republic",
+      "flag": "🇨🇿",
+      "code": "+420",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Denmark",
+      "flag": "🇩🇰",
+      "code": "+45",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Djibouti",
+      "flag": "🇩🇯",
+      "code": "+253",
+      "phone_number_limit": 6
+    },
+    {
+      "country": "Dominica",
+      "flag": "🇩🇲",
+      "code": "+1-767",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Dominican Republic",
+      "flag": "🇩🇴",
+      "code": "+1-809",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Ecuador",
+      "flag": "🇪🇨",
+      "code": "+593",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Egypt",
+      "flag": "🇪🇬",
+      "code": "+20",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "El Salvador",
+      "flag": "🇸🇻",
+      "code": "+503",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Equatorial Guinea",
+      "flag": "🇬🇶",
+      "code": "+240",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Eritrea",
+      "flag": "🇪🇷",
+      "code": "+291",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Estonia",
+      "flag": "🇪🇪",
+      "code": "+372",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Eswatini",
+      "flag": "🇸🇿",
+      "code": "+268",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Ethiopia",
+      "flag": "🇪🇹",
+      "code": "+251",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Fiji",
+      "flag": "🇫🇯",
+      "code": "+679",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Finland",
+      "flag": "🇫🇮",
+      "code": "+358",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "France",
+      "flag": "🇫🇷",
+      "code": "+33",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Gabon",
+      "flag": "🇬🇦",
+      "code": "+241",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Gambia",
+      "flag": "🇬🇲",
+      "code": "+220",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Georgia",
+      "flag": "🇬🇪",
+      "code": "+995",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "code": "+49",
+      "phone_number_limit": 11
+    },
+    {
+      "country": "Ghana",
+      "flag": "🇬🇭",
+      "code": "+233",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Greece",
+      "flag": "🇬🇷",
+      "code": "+30",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Grenada",
+      "flag": "🇬🇩",
+      "code": "+1-473",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Guatemala",
+      "flag": "🇬🇹",
+      "code": "+502",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Guinea",
+      "flag": "🇬🇳",
+      "code": "+224",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Guinea-Bissau",
+      "flag": "🇬🇼",
+      "code": "+245",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Guyana",
+      "flag": "🇬🇾",
+      "code": "+592",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Haiti",
+      "flag": "🇭🇹",
+      "code": "+509",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Honduras",
+      "flag": "🇭🇳",
+      "code": "+504",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Hungary",
+      "flag": "🇭🇺",
+      "code": "+36",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Iceland",
+      "flag": "🇮🇸",
+      "code": "+354",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "India",
+      "flag": "🇮🇳",
+      "code": "+91",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Indonesia",
+      "flag": "🇮🇩",
+      "code": "+62",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Iran",
+      "flag": "🇮🇷",
+      "code": "+98",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Iraq",
+      "flag": "🇮🇶",
+      "code": "+964",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Ireland",
+      "flag": "🇮🇪",
+      "code": "+353",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Israel",
+      "flag": "🇮🇱",
+      "code": "+972",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "code": "+39",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Jamaica",
+      "flag": "🇯🇲",
+      "code": "+1-876",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Japan",
+      "flag": "🇯🇵",
+      "code": "+81",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Jordan",
+      "flag": "🇯🇴",
+      "code": "+962",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Kazakhstan",
+      "flag": "🇰🇿",
+      "code": "+7",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Kenya",
+      "flag": "🇰🇪",
+      "code": "+254",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Kiribati",
+      "flag": "🇰🇷",
+      "code": "+686",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Korea, North",
+      "flag": "🇰🇵",
+      "code": "+850",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Korea, South",
+      "flag": "🇰🇷",
+      "code": "+82",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Kuwait",
+      "flag": "🇰🇼",
+      "code": "+965",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Kyrgyzstan",
+      "flag": "🇰🇬",
+      "code": "+996",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Laos",
+      "flag": "🇱🇦",
+      "code": "+856",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Latvia",
+      "flag": "🇱🇻",
+      "code": "+371",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Lebanon",
+      "flag": "🇱🇧",
+      "code": "+961",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Lesotho",
+      "flag": "🇱🇸",
+      "code": "+266",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Liberia",
+      "flag": "🇱🇷",
+      "code": "+231",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Libya",
+      "flag": "🇱🇾",
+      "code": "+218",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Liechtenstein",
+      "flag": "🇱🇮",
+      "code": "+423",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Lithuania",
+      "flag": "🇱🇹",
+      "code": "+370",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Luxembourg",
+      "flag": "🇱🇺",
+      "code": "+352",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Madagascar",
+      "flag": "🇲🇬",
+      "code": "+261",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Malawi",
+      "flag": "🇲🇼",
+      "code": "+265",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Malaysia",
+      "flag": "🇲🇾",
+      "code": "+60",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Maldives",
+      "flag": "🇲🇻",
+      "code": "+960",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Mali",
+      "flag": "🇲🇱",
+      "code": "+223",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Malta",
+      "flag": "🇲🇹",
+      "code": "+356",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Marshall Islands",
+      "flag": "🇲🇭",
+      "code": "+692",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Mauritania",
+      "flag": "🇲🇦",
+      "code": "+222",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Mauritius",
+      "flag": "🇲🇺",
+      "code": "+230",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Mexico",
+      "flag": "🇲🇽",
+      "code": "+52",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Micronesia",
+      "flag": "🇫🇲",
+      "code": "+691",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Moldova",
+      "flag": "🇲🇩",
+      "code": "+373",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Monaco",
+      "flag": "🇲🇨",
+      "code": "+377",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Mongolia",
+      "flag": "🇲🇳",
+      "code": "+976",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Montenegro",
+      "flag": "🇲🇪",
+      "code": "+382",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Morocco",
+      "flag": "🇲🇦",
+      "code": "+212",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Mozambique",
+      "flag": "🇲🇿",
+      "code": "+258",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Myanmar",
+      "flag": "🇲🇲",
+      "code": "+95",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Namibia",
+      "flag": "🇳🇦",
+      "code": "+264",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Nauru",
+      "flag": "🇳🇷",
+      "code": "+674",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Nepal",
+      "flag": "🇳🇵",
+      "code": "+977",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "code": "+31",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "New Zealand",
+      "flag": "🇳🇿",
+      "code": "+64",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Nicaragua",
+      "flag": "🇳🇮",
+      "code": "+505",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Niger",
+      "flag": "🇳🇪",
+      "code": "+227",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Nigeria",
+      "flag": "🇳🇬",
+      "code": "+234",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "North Macedonia",
+      "flag": "🇲🇰",
+      "code": "+389",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Norway",
+      "flag": "🇳🇴",
+      "code": "+47",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Oman",
+      "flag": "🇴🇲",
+      "code": "+968",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Pakistan",
+      "flag": "🇵🇰",
+      "code": "+92",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Palau",
+      "flag": "🇵🇼",
+      "code": "+680",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Palestine",
+      "flag": "🇵🇸",
+      "code": "+970",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Panama",
+      "flag": "🇵🇦",
+      "code": "+507",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Papua New Guinea",
+      "flag": "🇵🇬",
+      "code": "+675",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Paraguay",
+      "flag": "🇵🇾",
+      "code": "+595",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Peru",
+      "flag": "🇵🇪",
+      "code": "+51",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Philippines",
+      "flag": "🇵🇭",
+      "code": "+63",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Poland",
+      "flag": "🇵🇱",
+      "code": "+48",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Portugal",
+      "flag": "🇵🇹",
+      "code": "+351",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Qatar",
+      "flag": "🇶🇦",
+      "code": "+974",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Romania",
+      "flag": "🇷🇴",
+      "code": "+40",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Russia",
+      "flag": "🇷🇺",
+      "code": "+7",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Rwanda",
+      "flag": "🇷🇼",
+      "code": "+250",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "flag": "🇰🇳",
+      "code": "+1-869",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Saint Lucia",
+      "flag": "🇱🇨",
+      "code": "+1-758",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "flag": "🇻🇨",
+      "code": "+1-784",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Samoa",
+      "flag": "🇼🇸",
+      "code": "+685",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "San Marino",
+      "flag": "🇸🇲",
+      "code": "+378",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "flag": "🇸🇹",
+      "code": "+239",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "code": "+966",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Senegal",
+      "flag": "🇸🇳",
+      "code": "+221",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Serbia",
+      "flag": "🇷🇸",
+      "code": "+381",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Seychelles",
+      "flag": "🇸🇨",
+      "code": "+248",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Sierra Leone",
+      "flag": "🇸🇱",
+      "code": "+232",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Singapore",
+      "flag": "🇸🇬",
+      "code": "+65",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Slovakia",
+      "flag": "🇸🇰",
+      "code": "+421",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Slovenia",
+      "flag": "🇸🇮",
+      "code": "+386",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Solomon Islands",
+      "flag": "🇸🇧",
+      "code": "+677",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Somalia",
+      "flag": "🇸🇴",
+      "code": "+252",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "South Africa",
+      "flag": "🇿🇦",
+      "code": "+27",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "South Sudan",
+      "flag": "🇸🇸",
+      "code": "+211",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "code": "+34",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Sri Lanka",
+      "flag": "🇱🇰",
+      "code": "+94",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Sudan",
+      "flag": "🇸🇩",
+      "code": "+249",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Suriname",
+      "flag": "🇸🇷",
+      "code": "+597",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Sweden",
+      "flag": "🇸🇪",
+      "code": "+46",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Switzerland",
+      "flag": "🇨🇭",
+      "code": "+41",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Syria",
+      "flag": "🇸🇾",
+      "code": "+963",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Taiwan",
+      "flag": "🇹🇼",
+      "code": "+886",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Tajikistan",
+      "flag": "🇹🇯",
+      "code": "+992",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Tanzania",
+      "flag": "🇹🇿",
+      "code": "+255",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Thailand",
+      "flag": "🇹🇭",
+      "code": "+66",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Togo",
+      "flag": "🇹🇬",
+      "code": "+228",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Tonga",
+      "flag": "🇹🇴",
+      "code": "+676",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "flag": "🇹🇹",
+      "code": "+1-868",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Tunisia",
+      "flag": "🇹🇳",
+      "code": "+216",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Turkey",
+      "flag": "🇹🇷",
+      "code": "+90",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Turkmenistan",
+      "flag": "🇹🇲",
+      "code": "+993",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Tuvalu",
+      "flag": "🇹🇻",
+      "code": "+688",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Uganda",
+      "flag": "🇺🇬",
+      "code": "+256",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Ukraine",
+      "flag": "🇺🇦",
+      "code": "+380",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "United Arab Emirates",
+      "flag": "🇦🇪",
+      "code": "+971",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "code": "+44",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "United States",
+      "flag": "🇺🇸",
+      "code": "+1",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Uruguay",
+      "flag": "🇺🇾",
+      "code": "+598",
+      "phone_number_limit": 8
+    },
+    {
+      "country": "Uzbekistan",
+      "flag": "🇺🇿",
+      "code": "+998",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Vanuatu",
+      "flag": "🇻🇺",
+      "code": "+678",
+      "phone_number_limit": 7
+    },
+    {
+      "country": "Vatican City",
+      "flag": "🇻🇦",
+      "code": "+39",
+      "phone_number_limit": 3
+    },
+    {
+      "country": "Venezuela",
+      "flag": "🇻🇪",
+      "code": "+58",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Vietnam",
+      "flag": "🇻🇳",
+      "code": "+84",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Yemen",
+      "flag": "🇾🇪",
+      "code": "+967",
+      "phone_number_limit": 9
+    },
+    {
+      "country": "Zambia",
+      "flag": "🇿🇲",
+      "code": "+260",
+      "phone_number_limit": 10
+    },
+    {
+      "country": "Zimbabwe",
+      "flag": "🇿🇼",
+      "code": "+263",
+      "phone_number_limit": 9
+    }
+  ]
+}

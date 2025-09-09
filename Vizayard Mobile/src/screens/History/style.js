@@ -1,0 +1,181 @@
+import {StyleSheet} from 'react-native';
+//relative path imports
+import {COLORS} from '../../config/colors';
+import {FONTS} from '../../config/font';
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: COLORS.APP_COMMON_WHITE,
+  },
+  headerContainer: {
+    position: 'relative',
+  },
+  header: {
+    paddingHorizontal: 20,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingVertical: 15,
+    alignItems:'center',
+    borderBottomColor:COLORS.APP_GRAY_100,
+    borderBottomWidth:1,
+  },
+  txtApplications: {
+    fontFamily: FONTS.INTER_EXTRA_BOLD,
+    fontSize: 24,
+  },
+  filterButtonContainer: {
+    position: 'absolute',
+    top: 15,
+    right: 20,
+    zIndex: 1000,
+  },
+  filterButton: {
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    backgroundColor: COLORS.APP_WHITE,
+    justifyContent: 'center',
+    alignItems: 'center',
+    elevation: 2,
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 1,
+    },
+    shadowOpacity: 0.22,
+    shadowRadius: 2.22,
+    borderWidth: 1,
+    borderColor: COLORS.APP_GRAY_100,
+  },
+  filterDot: {
+    position: 'absolute',
+    top: 8,
+    right: 8,
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    backgroundColor: COLORS.APP_PRIMARY_MAIN,
+  },
+  popoverContainer: {
+    position: 'absolute',
+    top: 60,
+    right: 20,
+    zIndex: 2000,
+  },
+  popover: {
+    backgroundColor: COLORS.APP_WHITE,
+    borderRadius: 12,
+    padding: 16,
+    minWidth: 180,
+    maxWidth: 220,
+    elevation: 8,
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 4,
+    },
+    shadowOpacity: 0.3,
+    shadowRadius: 4.65,
+    borderWidth: 1,
+    borderColor: COLORS.APP_GRAY_100,
+  },
+  popoverArrow: {
+    position: 'absolute',
+    top: -6,
+    right: 24,
+    width: 12,
+    height: 12,
+    backgroundColor: COLORS.APP_WHITE,
+    transform: [{rotate: '45deg'}],
+    borderTopWidth: 1,
+    borderLeftWidth: 1,
+    borderColor: COLORS.APP_GRAY_100,
+  },
+  popoverOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    zIndex: 1500,
+    backgroundColor: 'transparent',
+  },
+  popoverItem: {
+    paddingVertical: 10,
+    paddingHorizontal: 8,
+    borderRadius: 8,
+    marginBottom: 4,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  selectedPopoverItem: {
+    backgroundColor: COLORS.APP_PRIMARY_MAIN,
+  },
+  chipView: {
+    backgroundColor: '#F3F4F6',
+    paddingVertical: 10,
+    paddingHorizontal: 16,
+    borderRadius: 50,
+  },
+  txtStatusText: {
+    fontSize: 16,
+    fontFamily: FONTS.INTER_MEDIUM,
+  },
+  countryImage: {
+    height: 110,
+    width: 110,
+    borderRadius: 12,
+  },
+  txtCountryName: {
+    fontFamily: FONTS.INTER_SEMIBOLD,
+    fontSize: 16,
+    color: COLORS.APP_PRIMARY_BLACK,
+  },
+  durationSection: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    marginTop: 8,
+  },
+  duration: {
+    fontSize: 12,
+    fontFamily: FONTS.INTER_REGULAR,
+    color: '#4B5563',
+  },
+  statusView: {
+    height: 28,
+    justifyContent: 'center',
+    borderRadius: 50,
+    marginTop: 10,
+    maxWidth: 80,
+    alignItems: 'center',
+  },
+  txtStatus: {
+    fontFamily: FONTS.INTER_MEDIUM,
+    fontSize: 12,
+  },
+  txtNoDataFound: {
+    marginTop: 20,
+    fontSize: 18,
+    textAlign: 'center',
+    color: COLORS.APP_REJECTED,
+    fontFamily: FONTS.INTER_MEDIUM,
+  },
+  listContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingHorizontal: 20,
+    gap: 10,
+  },
+  applicationItemStyle: {
+    borderTopWidth: 1,
+    borderTopColor: COLORS.APP_BORDER,
+    padding: 16,
+    flexDirection: 'row',
+    gap: 16,
+  },
+});
+
+export default styles;

@@ -1,0 +1,6 @@
+node_modules
+.env
+
+
+// not to include notes.txt
+notes.txt

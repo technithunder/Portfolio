@@ -1,0 +1,102 @@
+diff --git a/node_modules/rn-material-ui-textfield/src/components/affix/index.js b/node_modules/rn-material-ui-textfield/src/components/affix/index.js
+index 5ea56e4..ab8f6d7 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/affix/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/affix/index.js
+@@ -3,7 +3,7 @@ import React, { PureComponent } from 'react';
+ import { Animated } from 'react-native';
+ import { TextPropTypes } from 'deprecated-react-native-prop-types';
+ 
+-import styles from './styles';
++import styles from './styles.js';
+ 
+ export default class Affix extends PureComponent {
+   static defaultProps = {
+diff --git a/node_modules/rn-material-ui-textfield/src/components/counter/index.js b/node_modules/rn-material-ui-textfield/src/components/counter/index.js
+index 31cee3f..2b54d94 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/counter/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/counter/index.js
+@@ -3,7 +3,7 @@ import React, { PureComponent } from 'react';
+ import { Text } from 'react-native';
+ import { TextPropTypes } from 'deprecated-react-native-prop-types';
+ 
+-import styles from './styles';
++import styles from './styles.js';
+ 
+ export default class Counter extends PureComponent {
+   static propTypes = {
+diff --git a/node_modules/rn-material-ui-textfield/src/components/field-filled/index.js b/node_modules/rn-material-ui-textfield/src/components/field-filled/index.js
+index 3367229..454b666 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/field-filled/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/field-filled/index.js
+@@ -1,5 +1,5 @@
+ import TextField from '../field';
+-import styles from './styles';
++import styles from './styles.js';
+ 
+ export default class FilledTextField extends TextField {
+   static contentInset = {
+diff --git a/node_modules/rn-material-ui-textfield/src/components/field/index.js b/node_modules/rn-material-ui-textfield/src/components/field/index.js
+index c5f1e84..69ec4b5 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/field/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/field/index.js
+@@ -13,7 +13,7 @@ import Affix from '../affix';
+ import Helper from '../helper';
+ import Counter from '../counter';
+ 
+-import styles from './styles';
++import styles from './styles.js';
+ 
+ function startAnimation(animation, options, callback) {
+   Animated.timing(animation, options).start(callback);
+diff --git a/node_modules/rn-material-ui-textfield/src/components/helper/index.js b/node_modules/rn-material-ui-textfield/src/components/helper/index.js
+index 14b79b9..c7b130e 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/helper/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/helper/index.js
+@@ -3,7 +3,7 @@ import React, { PureComponent } from 'react';
+ import { Animated } from 'react-native';
+ import { TextPropTypes } from 'deprecated-react-native-prop-types';
+ 
+-import styles from './styles';
++import styles from './styles.js';
+ 
+ export default class Helper extends PureComponent {
+   static propTypes = {
+diff --git a/node_modules/rn-material-ui-textfield/src/components/label/index.js b/node_modules/rn-material-ui-textfield/src/components/label/index.js
+index a59286d..74e5ff0 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/label/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/label/index.js
+@@ -3,7 +3,7 @@ import React, { PureComponent } from 'react';
+ import { Animated } from 'react-native';
+ import { TextPropTypes } from 'deprecated-react-native-prop-types';
+ 
+-import styles from './styles';
++import styles from './styles.js';
+ 
+ export default class Label extends PureComponent {
+   static defaultProps = {
+diff --git a/node_modules/rn-material-ui-textfield/src/components/line/index.js b/node_modules/rn-material-ui-textfield/src/components/line/index.js
+index 05921b2..175c031 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/line/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/line/index.js
+@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
+ import React, { PureComponent } from 'react';
+ import { View, Animated } from 'react-native';
+ 
+-import styles from './styles';
++import styles from './styles.js';
+ 
+ const lineTypes = PropTypes.oneOf(['solid', 'dotted', 'dashed', 'none']);
+ 
+diff --git a/node_modules/rn-material-ui-textfield/src/components/outline/index.js b/node_modules/rn-material-ui-textfield/src/components/outline/index.js
+index 731bdd4..ab1a669 100644
+--- a/node_modules/rn-material-ui-textfield/src/components/outline/index.js
++++ b/node_modules/rn-material-ui-textfield/src/components/outline/index.js
+@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
+ import React, { Fragment, PureComponent } from 'react';
+ import { View, Animated, I18nManager } from 'react-native';
+ 
+-import styles, { borderRadius } from './styles';
++import styles, { borderRadius } from './styles.js';
+ 
+ export default class Line extends PureComponent {
+   static defaultProps = {
